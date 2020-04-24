@@ -4,7 +4,7 @@ The following files comprise the Winterthur Interfaces: Bounds_and_Swing_Analyse
 In order to run the above files:
 1) Dash by Plotly must be downloaded; instructions can be found at https://dash.plotly.com/installation.
 2) The dash-floorplan component must be downloaded from https://github.com/wfreinhart/dash-floorplan. 
-3) The assets folder and the image must be downloaded in the same folder as the interface files. 
+3) The assets folder and colorbarSpectralhorz.png must be downloaded in the same folder as the interface files. 
 
 Stylesheets from plotly sample dash app - cite this properly
 
