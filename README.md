@@ -6,12 +6,18 @@ In order to run the above files:
 2) The dash-floorplan component must be downloaded from https://github.com/wfreinhart/dash-floorplan. 
 3) The assets folder and colorbarSpectralhorz.png must be downloaded in the same folder as the interface files. 
 
-Stylesheets from plotly sample dash app - cite this properly
+Stylesheets from plotly sample dash app - cite this properly 
+stylesheet1: https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/s1.css
+stylesheet2: https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/styles.css
 
-## Bounds and Swing Analyses for One File
-This interface analyzes one Winterthur .pm2 file at a time. Bounds and Swing Analyses 
 
-## Bounds and Swing Analyses for Multiple Files
+## Bounds and Swing Analysis for One File
+This interface analyzes one Winterthur .pm2 file at a time.
+
+
+
+## Bounds and Swing Analysis for Multiple Files
+This interface analyzes multiple Winterthur .pm2 files at one time.
 
 ## Cross-Correlation Analysis
 
