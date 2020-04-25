@@ -5,8 +5,7 @@ In order to run the above files:
 1) Dash by Plotly must be downloaded; instructions can be found at https://dash.plotly.com/installation.
 2) The dash-floorplan component must be downloaded from https://github.com/wfreinhart/dash-floorplan. 
 3) The assets folder and colorbarSpectralhorz.png must be downloaded in the same folder as the interface files. 
-
-See requirements.txt for full list of required packages.
+4) See requirements.txt for full list of required packages.
 
 These interfaces were tested in the Google Chrome browser.
 
