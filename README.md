@@ -1,5 +1,5 @@
 # Winterthur Interfaces
-The following files comprise the Winterthur Interfaces: Bounds_and_Swing_Analysis_for_One_File.py, Bounds_and_Swing_Analysis_for_Multiple_Files.py, Cross_Correlation.py, Factor_Analysis.py.
+The Winterthur Interfaces are used for analyzing microclimate monitoring data. The following files comprise the Winterthur Interfaces: Bounds_and_Swing_Analysis_for_One_File.py, Bounds_and_Swing_Analysis_for_Multiple_Files.py, Cross_Correlation.py, Factor_Analysis.py.
 
 In order to run the above files:
 1) Dash by Plotly must be downloaded; instructions can be found at https://dash.plotly.com/installation.
