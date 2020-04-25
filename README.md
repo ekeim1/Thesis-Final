@@ -7,10 +7,12 @@ In order to run the above files:
 3) The assets folder and colorbarSpectralhorz.png must be downloaded in the same folder as the interface files. 
 4) See requirements.txt for full list of required packages.
 
+To run an interface, run one of the .py files above in your python development environment or terminal. A link to a browser window should appear. If not, open your browser and go to http://127.0.0.1:8050/. Dash apps deploy to that link.
+
 These interfaces were tested in the Google Chrome browser.
 
-The stylesheets found in the assests folder come from a Plotly sample app:
-https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/s1.css, https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/styles.css
+The stylesheets found in the assests folder come from a Plotly sample app and can be found at
+https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/s1.css and https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/styles.css.
 
 ## Bounds and Swing Analysis for One File
 This interface analyzes one Winterthur .pm2 file at a time.
@@ -27,3 +29,6 @@ This interface runs factor analysis on .pm2 files and on .csv files.
 ## prepareCSV.py
 
 prepareCSV.py is used to modify .csv files for use with Factor_Analysis.py. A .csv file can be resampled, the date range adjusted, and the columns to be examined selected. The user must directly interact with this code and edit it to name their file path, the date range, the location to save the modified csv to, and to select the columns to examine.
+
+# Thesis 
+These interfaces were created as a senior thesis. Further explanation of motivation and usage can be found in thesis.pdf above.
