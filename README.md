@@ -30,5 +30,5 @@ This interface runs factor analysis on .pm2 files and on .csv files.
 
 prepareCSV.py is used to modify .csv files for use with Factor_Analysis.py. A .csv file can be resampled, the date range adjusted, and the columns to be examined selected. The user must directly interact with this code and edit it to name their file path, the date range, the location to save the modified csv to, and to select the columns to examine.
 
-# Thesis 
+## Thesis 
 These interfaces were created as a senior thesis. Further explanation of motivation and usage can be found in thesis.pdf above.
