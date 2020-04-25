@@ -10,10 +10,9 @@ See requirements.txt for full list of required packages.
 
 These interfaces were tested in the Google Chrome browser.
 
-Stylesheets from plotly sample dash app - cite this properly 
+The stylesheets found in the assests folder come from a Plotly sample app:
 stylesheet1: https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/s1.css
 stylesheet2: https://github.com/plotly/dash-sample-apps/blob/master/apps/dash-oil-and-gas/assets/styles.css
-
 
 ## Bounds and Swing Analysis for One File
 This interface analyzes one Winterthur .pm2 file at a time.
